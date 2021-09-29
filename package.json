@@ -1,0 +1,29 @@
+{
+  "name": "traveling-guitar-man",
+  "version": "1.0.0",
+  "description": "This is where a simple description needs to go!",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtap101/demo-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtap101/demo-repo/issues"
+  },
+  "homepage": "https://github.com/rtap101/demo-repo#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "mysql2": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
